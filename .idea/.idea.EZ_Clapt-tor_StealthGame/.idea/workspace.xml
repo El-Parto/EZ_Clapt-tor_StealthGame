@@ -19,13 +19,8 @@
     </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/EZClap-tor/Scripts/PlayerControl.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D9B30821-B5DF-42DE-AC5E-D6F886E91D4B/57/56dcb059/Rigidbody2D.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../2DOneButtonGame/Assets/2DOneButtonGame/Scripts/CannonController.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CD247B5B-11A4-403F-AF72-D1261A82BE13/6c/d0a469b4/Collision.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../2DOneButtonGame/Assets/2DOneButtonGame/Scripts/PlayerScript.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/EZClap-tor/Scripts/CheeseInventory.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/../DoodleJumpStyleGame/Assets/Scripts/PlayerControl.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/EZClap-tor/Scripts/PlayerControl.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/EZClap-tor/Scripts/TriggersAndContacts.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -38,6 +33,7 @@
       <option value="$PROJECT_DIR$/Assets/EZClap-tor/Scripts/Item.cs" />
       <option value="$PROJECT_DIR$/Assets/EZClap-tor/Scripts/TriggersAndContacts.cs" />
       <option value="$PROJECT_DIR$/Assets/EZClap-tor/Scripts/PlayerControl.cs" />
+      <option value="$PROJECT_DIR$/Assets/EZClap-tor/Scripts/Agents.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="1vyYu4lpwuThAaffx21o3USWEYG" />
@@ -90,6 +86,7 @@
       <workItem from="1628644560747" duration="6483000" />
       <workItem from="1628738603180" duration="2664000" />
       <workItem from="1629251764699" duration="2450000" />
+      <workItem from="1629784852922" duration="38000" />
     </task>
     <servers />
   </component>
