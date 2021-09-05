@@ -19,24 +19,26 @@
     </file-type-list>
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/EZClap-tor/Scripts/PlayerControl.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D9B30821-B5DF-42DE-AC5E-D6F886E91D4B/57/56dcb059/Rigidbody2D.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../2DOneButtonGame/Assets/2DOneButtonGame/Scripts/CannonController.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CD247B5B-11A4-403F-AF72-D1261A82BE13/6c/d0a469b4/Collision.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../2DOneButtonGame/Assets/2DOneButtonGame/Scripts/PlayerScript.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/EZClap-tor/Scripts/CheeseInventory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../GameJam1_MonsterFame/Assets/Game Jam MonsterFame/Scripts/PlayerControl.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../2DOneButtonGame/Assets/2DOneButtonGame/Scripts/RestartGame.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../DoodleJumpStyleGame/Assets/Scripts/PlayerControl.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/EZClap-tor/Scripts/TriggersAndContacts.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
-      <option value="$PROJECT_DIR$/Assets/EZClap-tor/Scripts/AIBehaviour.cs" />
       <option value="$PROJECT_DIR$/Assets/EZClap-tor/Scripts/Items.cs" />
       <option value="$PROJECT_DIR$/Assets/EZClap-tor/Scripts/Cheese.cs" />
       <option value="$PROJECT_DIR$/Assets/EZClap-tor/Scripts/TypeofCheese.cs" />
       <option value="$PROJECT_DIR$/Assets/EZClap-tor/Scripts/CheeseInventory.cs" />
       <option value="$PROJECT_DIR$/Assets/EZClap-tor/Scripts/Item.cs" />
       <option value="$PROJECT_DIR$/Assets/EZClap-tor/Scripts/TriggersAndContacts.cs" />
+      <option value="$PROJECT_DIR$/Assets/EZClap-tor/Scripts/DetectStatus.cs" />
+      <option value="$PROJECT_DIR$/../GameJam1_MonsterFame/Assets/Game Jam MonsterFame/Scripts/PlayerControl.cs" />
+      <option value="$PROJECT_DIR$/Assets/EZClap-tor/Scripts/AIBehaviour.cs" />
+      <option value="$PROJECT_DIR$/Assets/EZClap-tor/Scripts/GUIManager.cs" />
       <option value="$PROJECT_DIR$/Assets/EZClap-tor/Scripts/PlayerControl.cs" />
     </changedPaths>
   </component>
@@ -47,6 +49,8 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.2665549" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.0" />
     <property name="Discover.Launch.Via.Unity" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
@@ -64,10 +68,10 @@
       </option>
       <method v="2" />
     </configuration>
-    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" ignored-value-for-modified-check="16516">
       <option name="allowRunningInParallel" value="false" />
       <option name="listenPortForConnections" value="false" />
-      <option name="pid" />
+      <option name="pid" value="16516" />
       <option name="projectPathOnTarget" />
       <option name="selectedOptions">
         <list />
@@ -90,6 +94,7 @@
       <workItem from="1628644560747" duration="6483000" />
       <workItem from="1628738603180" duration="2664000" />
       <workItem from="1629251764699" duration="2450000" />
+      <workItem from="1630717439625" duration="17504000" />
     </task>
     <servers />
   </component>

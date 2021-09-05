@@ -9,6 +9,7 @@ TagManager:
   - EnemyLOS
   - Ground
   - HidingSpot
+  - Cheese
   layers:
   - Default
   - TransparentFX
@@ -16,8 +17,8 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
+  - Platform
+  - PlayerMsk
   - 
   - 
   - 
