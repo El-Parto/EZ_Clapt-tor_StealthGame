@@ -25,6 +25,7 @@
     <setting file="file://$PROJECT_DIR$/../2DOneButtonGame/Assets/2DOneButtonGame/Scripts/PlayerScript.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../GameJam1_MonsterFame/Assets/Game Jam MonsterFame/Scripts/PlayerControl.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../2DOneButtonGame/Assets/2DOneButtonGame/Scripts/RestartGame.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/EZClap-tor/Scripts/Agents.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../DoodleJumpStyleGame/Assets/Scripts/PlayerControl.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -94,7 +95,7 @@
       <workItem from="1628644560747" duration="6483000" />
       <workItem from="1628738603180" duration="2664000" />
       <workItem from="1629251764699" duration="2450000" />
-      <workItem from="1630717439625" duration="17504000" />
+      <workItem from="1630717439625" duration="18252000" />
     </task>
     <servers />
   </component>
